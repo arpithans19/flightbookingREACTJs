@@ -1,0 +1,168 @@
+.contrainer-booking-id {
+    position: center; 
+    background-image: url(https://img.freepik.com/premium-photo/crumpled-white-paper-textured-background-wallpaper_53876-110213.jpg?size=626&ext=jpg&ga=GA1.2.1528389339.1655633479);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-style: 1px solid rgb(195, 32, 32);
+    margin: 0 auto;
+    text-align: center;
+    opacity: 0.9;
+    margin-top: 6px;
+    box-shadow: 2px 5px 5px 0px rgb(15, 219, 114);
+    max-width: 300px;
+    padding-top: 10px;
+    height: 340px;
+    margin-top: 10px;
+    /* float:left; */
+}
+
+.h2-booking-id {
+    color: rgb(19, 171, 72);
+    font-size: 30px;
+}
+
+.body-booking-id {
+    background-image: url(https://t3.ftcdn.net/jpg/03/28/98/80/240_F_328988041_2ilLPjBMBK9LeLvLrs5eW8IQTZbghChZ.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    overflow: auto;
+
+}
+
+
+.contrainer-user-id {
+    position: center; 
+    background-image: url(https://img.freepik.com/premium-photo/crumpled-white-paper-textured-background-wallpaper_53876-110213.jpg?size=626&ext=jpg&ga=GA1.2.1528389339.1655633479);
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-style: 1px solid rgb(195, 32, 32);
+    margin: 0 auto;
+    text-align: center;
+    opacity: 0.9;
+    margin-top: 6px;
+    box-shadow: 2px 5px 5px 0px rgb(14, 84, 165);
+    max-width: 500px;
+    padding-top: 6px;
+    height: 420px;
+    margin-top: 10px;
+    /* float:left; */
+}
+
+.h2-user-id {
+    color: rgb(19, 171, 72);
+    font-size: 30px;
+}
+
+.body-user-id {
+    background-image: url(https://img.freepik.com/free-photo/3d-render-grunge-interior-with-spotlight-shining-down_1048-13352.jpg?size=338&ext=jpg&ga=GA1.2.1528389339.1655633479);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    overflow: auto;
+
+}
+
+
+.contrainer-fare-id {
+    position: center; 
+    background-image: url(https://img.freepik.com/premium-photo/crumpled-white-paper-textured-background-wallpaper_53876-110213.jpg?size=626&ext=jpg&ga=GA1.2.1528389339.1655633479);
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-style: 1px solid rgb(195, 32, 32);
+    margin: 0 auto;
+    text-align: center;
+    opacity: 0.9;
+    margin-top: 6px;
+    box-shadow: 2px 5px 5px 0px rgb(14, 84, 165);
+    max-width: 300px;
+    padding-top: 6px;
+    height: 280px;
+    margin-top: 10px;
+    /* float:left; */
+}
+
+.h2-fare-id {
+    color: rgb(19, 171, 72);
+    font-size: 30px;
+}
+
+.body-fare-id {
+    background-image: url(https://img.freepik.com/free-vector/brick-wall-realistic_1284-4683.jpg?size=626&ext=jpg&ga=GA1.2.1528389339.1655633479);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    overflow: auto;
+
+}
+
+.contrainer-checkin-id {
+    position: center; 
+    background-image: url(https://img.freepik.com/premium-photo/crumpled-white-paper-textured-background-wallpaper_53876-110213.jpg?size=626&ext=jpg&ga=GA1.2.1528389339.1655633479);
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-style: 1px solid rgb(195, 32, 32);
+    margin: 0 auto;
+    text-align: center;
+    opacity: 0.9;
+    margin-top: 6px;
+    box-shadow: 2px 5px 5px 0px rgb(14, 84, 165);
+    max-width: 300px;
+    padding-top: 6px;
+    height: 300px;
+    margin-top: 10px;
+    /* float:left; */
+}
+
+.h2-checkin-id {
+    color: rgb(19, 171, 72);
+    font-size: 30px;
+}
+
+.body-checkin-id {
+    background-image: url(https://t3.ftcdn.net/jpg/03/28/98/80/240_F_328988041_2ilLPjBMBK9LeLvLrs5eW8IQTZbghChZ.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    overflow: auto;
+
+}
+
+
+.contrainer-flight-id {
+    position: center; 
+    background-image: url(https://img.freepik.com/premium-photo/crumpled-white-paper-textured-background-wallpaper_53876-110213.jpg?size=626&ext=jpg&ga=GA1.2.1528389339.1655633479);
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-style: 1px solid rgb(195, 32, 32);
+    margin: 0 auto;
+    text-align: center;
+    opacity: 0.9;
+    margin-top: 6px;
+    box-shadow: 2px 5px 5px 0px rgb(14, 84, 165);
+    max-width: 500px;
+    padding-top: 6px;
+    height: 400px;
+    margin-top: 10px;
+    /* float:left; */
+}
+
+.h2-flight-id {
+    color: rgb(19, 171, 72);
+    font-size: 30px;
+}
+
+.body-flight-id {
+    background-image: url(https://img.freepik.com/premium-photo/wood-old-texture-wall-old-wooden-house-wallpaper-background_287732-541.jpg?size=626&ext=jpg&ga=GA1.2.1528389339.1655633479);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    overflow: auto;
+
+}
+
+

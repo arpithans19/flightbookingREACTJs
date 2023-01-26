@@ -1,0 +1,154 @@
+.container-login {
+    position: center;
+    font-family: Roboto, sans-serif;
+    color: rgb(232, 232, 241);
+    background-image: url(https://img.freepik.com/free-photo/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette_1258-48251.jpg?size=626&ext=jpg&ga=GA1.2.1528389339.1655633479);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 90%;
+    border: 3px solid rgb(181, 205, 215);
+    margin-top: 8px;
+    box-shadow: 2px 5px 5px 5px rgb(220, 223, 231);
+    
+    margin: 0 auto;
+    text-align: center;
+    opacity: 0.8;
+
+    box-shadow: yellow;
+    max-width: 600px;
+    padding-top: 1px;
+    height: 500px;
+    margin-top: 10px;
+    /* float: left; */
+}
+
+.h2-loginpage {
+    color: darksalmon;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-size: 35px;
+    font-style: italic;
+}
+
+.body-login {
+    background-image: url(https://t4.ftcdn.net/jpg/02/90/33/81/240_F_290338160_Ytvw67N5DoWLrhZxzkWdsh6AKtkLm1cA.jpg);
+    float: right;
+    background-repeat: no-repeat;
+    /* opacity: 0.9; */
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    overflow: auto;
+    /* border-radius: 100%; */
+
+
+
+
+}
+
+.p-login {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    color: gold;
+}
+
+.btn btn-sm {
+    color: black;
+    font-weight: bolder;
+}
+
+
+
+
+
+
+
+.box {
+    width: 500px;
+    margin: 200px 0;
+}
+
+.shape1 {
+    position: relative;
+    height: 150px;
+    width: 150px;
+    background-color: #0074d9;
+    border-radius: 80px;
+    float: left;
+    margin-right: -50px;
+}
+
+.shape2 {
+    position: relative;
+    height: 150px;
+    width: 150px;
+    background-color: #0074d9;
+    border-radius: 80px;
+    margin-top: -30px;
+    float: left;
+}
+
+.shape3 {
+    position: relative;
+    height: 150px;
+    width: 150px;
+    background-color: #0074d9;
+    border-radius: 80px;
+    margin-top: -30px;
+    float: left;
+    margin-left: -31px;
+}
+
+.shape4 {
+    position: relative;
+    height: 150px;
+    width: 150px;
+    background-color: #0074d9;
+    border-radius: 80px;
+    margin-top: -25px;
+    float: left;
+    margin-left: -32px;
+}
+
+.shape5 {
+    position: relative;
+    height: 150px;
+    width: 150px;
+    background-color: #0074d9;
+    border-radius: 80px;
+    float: left;
+    margin-right: -48px;
+    margin-left: -32px;
+    margin-top: -30px;
+}
+
+.shape6 {
+    position: relative;
+    height: 150px;
+    width: 150px;
+    background-color: #0074d9;
+    border-radius: 80px;
+    float: left;
+    margin-right: -20px;
+    margin-top: -35px;
+}
+
+.shape7 {
+    position: relative;
+    height: 150px;
+    width: 150px;
+    background-color: #0074d9;
+    border-radius: 80px;
+    float: left;
+    margin-right: -20px;
+    margin-top: -57px;
+}
+
+.float {
+    position: absolute;
+    z-index: 2;
+}
+
+.form {
+    margin-left: 145px;
+}

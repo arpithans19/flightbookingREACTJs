@@ -1,0 +1,35 @@
+.container-home{
+    padding: 0%;   
+    background-image: url('../images/flight3.webp');
+    background-size: cover;
+    background-repeat: no-repeat;    
+    height: 110vh;
+    
+}
+.h5-info{
+    color: rgb(188, 204, 187);
+    font-style: italic;
+   
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.h1{
+ 
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-style: italic;
+
+   
+    color:goldenrod;
+   
+    
+   
+}
+video{
+    
+    background-size: cover;
+    width: 100vh;
+    height: 100vh;
+}

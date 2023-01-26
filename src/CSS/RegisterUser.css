@@ -1,0 +1,41 @@
+.body-user-add {
+  background-image: url(https://t4.ftcdn.net/jpg/03/83/39/01/240_F_383390104_aTxmmJEIcGe4bPfYjR8lZLcPx5Duc0Y2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  overflow: auto;
+  
+
+}
+
+
+.container-user-add {
+  
+  background-image: url(https://img.freepik.com/free-photo/blue-bokeh-textured-plain-product-background_53876-102475.jpg?w=996&t=st=1663927037~exp=1663927637~hmac=955c263ce82f3c0be297ed0c16d915d64669d7f738fc9976809dd36feb677c59);
+
+  border-style: 1px solid grey;
+ 
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: black;
+  margin: 0 auto;
+  text-align: center;
+  border: 3px solid #a99d9d;
+  color: #212121;
+ background-size: cover;
+  opacity: 0.9;
+  border: 3px solid rgb(37, 153, 203);
+  margin-top: 8px;
+  box-shadow: 2px 5px 5px 5px rgb(96, 130, 224);
+  max-width: 500px;
+  padding-top: 10px;
+  height: 900px;
+  margin-top: 130px;
+}
+
+.heading {
+  color:brown;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: italic;
+  font-display: unset;
+}

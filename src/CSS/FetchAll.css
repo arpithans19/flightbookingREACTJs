@@ -1,0 +1,261 @@
+.body-booking {
+    background-image: url(https://img.freepik.com/free-photo/airport-terminal_1417-1461.jpg?size=626&ext=jpg&ga=GA1.2.1528389339.1655633479);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    overflow: auto;
+
+}
+.container-booking {
+    position: center;
+    font-family: sans-serif;
+    font-size: 14px;  
+    background-image: url(https://img.freepik.com/free-photo/gray-abstract-wireframe-technology-background_53876-101941.jpg?size=626&ext=jpg&ga=GA1.2.1528389339.1655633479);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-style: 1px solid rgb(227, 59, 59);
+    margin: 0 auto;
+    text-align: center;
+    opacity: 1;
+    margin-top: 6px;
+    box-shadow: 2px 5px 5px 0px rgb(21, 129, 224);
+    max-width: 700px;
+    padding-top: 0px;
+    height: 600px;
+    margin-top: 10px;
+}
+
+.h2-booking {
+    color: darkmagenta;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.table-booking{
+    position: center;   
+    font-family: sans-serif;
+    font-size: 14px;
+    color:aqua;   
+    margin: 30px;
+    text-align: center;
+    opacity: 0.9;
+    margin-top: 46px;
+    max-width: 550px;
+    padding-top: 1px;
+    height: 340px;
+    margin-top: 10px;
+
+  }
+
+  .body-flight {
+    background-image: url(https://img.freepik.com/premium-photo/abstract-black-white-bokeh-background_1962-1324.jpg?size=626&ext=jpg&ga=GA1.2.1528389339.1655633479);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    overflow: auto;
+
+}
+.container-flight {
+    position: center;
+    font-family: sans-serif;
+    font-size: 14px;  
+    background-image: url(https://img.freepik.com/premium-photo/crumpled-white-paper-textured-background-wallpaper_53876-110213.jpg?size=626&ext=jpg&ga=GA1.2.1528389339.1655633479);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-style: 1px solid white;
+    margin: 0 auto;
+    text-align: center;
+    opacity: 1;
+    margin-top: 6px;
+    box-shadow: 2px 5px 5px 0px rgb(2, 18, 36);
+    max-width: 700px;
+    padding-top: 6px;
+    height: 570px;
+    margin-top: 10px;
+}
+
+.h2-flight {
+    color: darkmagenta;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.table-flight{
+    position: center;   
+    font-family: sans-serif;
+    font-size: 14px;
+    color:aqua;   
+    margin: 30px;
+    text-align: center;
+    opacity: 0.9;
+    margin-top: 46px;
+    max-width: 550px;
+    padding-top: 1px;
+    height: 340px;
+    margin-top: 10px;
+
+  }
+
+
+  .body-fare {
+    background-image: url(https://img.freepik.com/premium-photo/abstract-black-white-bokeh-background_1962-1324.jpg?size=626&ext=jpg&ga=GA1.2.1528389339.1655633479);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    overflow: auto;
+
+}
+.container-fare {
+    position: center;
+    font-family: sans-serif;
+    font-size: 14px;  
+    background-image: url(https://img.freepik.com/premium-photo/crumpled-white-paper-textured-background-wallpaper_53876-110213.jpg?size=626&ext=jpg&ga=GA1.2.1528389339.1655633479);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-style: 1px solid white;
+    margin: 0 auto;
+    text-align: center;
+    opacity: 1;
+    margin-top: 6px;
+    box-shadow: 2px 5px 5px 0px rgb(2, 18, 36);
+    max-width: 500px;
+    padding-top: 6px;
+    height: 400px;
+    margin-top: 10px;
+}
+
+.h2-fare {
+    color: darkmagenta;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.table-fare{
+    position: center;   
+    font-family: sans-serif;
+    font-size: 14px;
+    color:aqua;   
+    margin: 30px;
+    text-align: center;
+    opacity: 0.9;
+    margin-top: 46px;
+    max-width: 550px;
+    padding-top: 1px;
+    height: 340px;
+    margin-top: 10px;
+
+  }
+
+
+  .body-checkin {
+    background-image: url(https://img.freepik.com/premium-photo/abstract-black-white-bokeh-background_1962-1324.jpg?size=626&ext=jpg&ga=GA1.2.1528389339.1655633479);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    overflow: auto;
+
+}
+.container-checkin {
+    position: center;
+    font-family: sans-serif;
+    font-size: 14px;  
+    background-image: url(https://img.freepik.com/premium-photo/crumpled-white-paper-textured-background-wallpaper_53876-110213.jpg?size=626&ext=jpg&ga=GA1.2.1528389339.1655633479);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-style: 1px solid white;
+    background-size: cover;
+    margin: 0 auto;
+    text-align: center;
+    opacity: 1;
+    margin-top: 6px;
+    box-shadow: 2px 5px 5px 0px rgb(2, 18, 36);
+    max-width: 700px;
+    padding-top: 6px;
+    height: 570px;
+    margin-top: 10px;
+}
+
+.h2-checkin {
+    color: darkmagenta;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.table-checkin{
+    position: center;   
+    font-family: sans-serif;
+    font-size: 14px;
+    color:aqua;   
+    margin: 30px;
+    text-align: center;
+    opacity: 0.9;
+    margin-top: 46px;
+    max-width: 550px;
+    padding-top: 1px;
+    height: 340px;
+    margin-top: 10px;
+
+  }
+
+
+  .body-user {
+    background-image: url(https://img.freepik.com/free-photo/brick-wall-painted-white_1194-7526.jpg?size=626&ext=jpg&ga=GA1.2.1528389339.1655633479);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    overflow: auto;
+
+}
+.container-user {
+    position: center;
+    font-family: sans-serif;
+    font-size: 14px;  
+    background-image: url(https://img.freepik.com/premium-photo/crumpled-white-paper-textured-background-wallpaper_53876-110213.jpg?size=626&ext=jpg&ga=GA1.2.1528389339.1655633479);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-style: 1px solid white;
+    margin: 0 auto;
+    text-align: center;
+    opacity: 1;
+    margin-top: 6px;
+    box-shadow: 2px 5px 5px 0px rgb(2, 18, 36);
+    max-width: 600px;
+    padding-top: 6px;
+    height: 570px;
+    margin-top: 10px;
+}
+
+.h2-user {
+    color: darkmagenta;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.table-user{
+    position: center;   
+    font-family: sans-serif;
+    font-size: 14px;
+    color:aqua;   
+    margin: 30px;
+    text-align: center;
+    opacity: 0.9;
+    margin-top: 46px;
+    max-width: 550px;
+    padding-top: 1px;
+    height: 340px;
+    margin-top: 10px;
+
+  }
+

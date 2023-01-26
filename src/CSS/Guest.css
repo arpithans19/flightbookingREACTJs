@@ -1,0 +1,12 @@
+.para{
+    padding: 0%;
+    color: indigo;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+   
+    background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-abstract-watercolor-background_23-2149001486.jpg?size=626&ext=jpg&ga=GA1.2.1528389339.1655633479);
+    background-size: cover;
+    background-repeat: no-repeat;    
+    height: 170vh;
+    /* width: 80%; */
+}
